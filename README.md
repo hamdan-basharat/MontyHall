@@ -1,2 +1,3 @@
 # MontyHall
-Simulates the famous Monty Hall door problem 
+This program simulates the famous MontyHall problem originating from the American T.V show "Let's Make A Deal". The concept of the show was that a contestant would go on stage and the host, Monty Hall, would let them choose between three doors in front of them. Behind one of the doors was a dream car that the player could possibly go home with, and behind the other two were goats, or “ZONKS”. After the player chooses a door, Monty reveals a one of the other doors that has a goat, and then gives the player the option to keep or switch their choice. There is a statisticallybetter choice to make when given this decision and that is what our program successfully proves. It simulates the game multiple times and displays the data collected from each game to the user. 
+Created on 01-18-2017
